@@ -1,0 +1,21 @@
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
+<identifier identifierType="DOI">10.0166/FK2.developmentfigshare.3125455.v1</identifier>
+<creators>
+  <creator>
+    <creatorName nameType="Personal">Automation Fellow Reporter</creatorName>
+    <givenName>Automation</givenName>
+    <familyName>Fellow Reporter</familyName>
+  </creator>
+</creators>
+<titles><title>[automation] check fellow 1663718125.3335037</title></titles>
+<publisher>eResearch Australasia Conference 2016</publisher>
+<publicationYear>2022</publicationYear>
+<subjects>
+  <subject>automation</subject>
+  <subject>test</subject>
+</subjects>
+<dates><date dateType="Issued">2022-09-20 23:56:05</date></dates>
+<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+<alternateIdentifiers>  <alternateIdentifier alternateIdentifierType="URL">https://eresearch.figshare.network/articles/dataset/_automation_check_fellow_1663718125_3335037/3125455</alternateIdentifier></alternateIdentifiers>
+<descriptions><description descriptionType="Abstract">this is some automated description</description></descriptions>
+</resource>
